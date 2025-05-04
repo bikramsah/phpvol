@@ -5,5 +5,6 @@ echo'<h1> we are at Mahendra Morang Campus Biratnagar Nepal </h2>';
 
 
 echo'<img src="mnr.jpg"width="700">';
+echo'<img src="mnr.jpg"width="700">';
 
 ?>
